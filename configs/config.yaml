@@ -1,0 +1,23 @@
+models:
+  embedding:
+    name: "BAAI/bge-small-en-v1.5"
+    dimension: 384
+  reranker:
+    name: "cross-encoder/ms-marco-MiniLM-L-6-v2"
+  vlm:
+    name: "gemini-1.5-flash"
+  query_model:
+    name: "gemini-1.5-flash"
+
+retrieval:
+  candidate_k: 50
+  evidence_k: 5
+  similarity_threshold: 0.35
+
+modality:
+  high_confidence: 0.80
+  medium_confidence: 0.55
+
+generation:
+  max_new_tokens: 128
+  temperature: 0.0

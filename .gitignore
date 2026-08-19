@@ -1,0 +1,27 @@
+# Python compilation caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Streamlit/Streamlit config
+.streamlit/
+
+# Local configuration / secrets
+.env
+.env.local
+
+# Pytest / Cache
+.pytest_cache/
+.pytest/
+
+# Project Data cache and outputs
+data/
+
+# Exclude scratch directory
+scratch/

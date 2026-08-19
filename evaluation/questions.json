@@ -1,0 +1,862 @@
+[
+  {
+    "id": "qb_1",
+    "pdf": "story_comic.pdf",
+    "question": "Detail search item 1: What does the brown bear checks hollow trees for in the big green forest?",
+    "entities": [
+      "bear",
+      "forest",
+      "honey"
+    ],
+    "modality": "Text"
+  },
+  {
+    "id": "qb_2",
+    "pdf": "story_comic.pdf",
+    "question": "Detail search item 2: What does the brown bear checks hollow trees for in the big green forest?",
+    "entities": [
+      "bear",
+      "forest",
+      "honey"
+    ],
+    "modality": "Text"
+  },
+  {
+    "id": "qb_3",
+    "pdf": "story_comic.pdf",
+    "question": "Detail search item 3: What does the brown bear checks hollow trees for in the big green forest?",
+    "entities": [
+      "bear",
+      "forest",
+      "honey"
+    ],
+    "modality": "Text"
+  },
+  {
+    "id": "qb_4",
+    "pdf": "story_comic.pdf",
+    "question": "Detail search item 4: What does the brown bear checks hollow trees for in the big green forest?",
+    "entities": [
+      "bear",
+      "forest",
+      "honey"
+    ],
+    "modality": "Text"
+  },
+  {
+    "id": "qb_5",
+    "pdf": "story_comic.pdf",
+    "question": "Detail search item 5: What does the brown bear checks hollow trees for in the big green forest?",
+    "entities": [
+      "bear",
+      "forest",
+      "honey"
+    ],
+    "modality": "Text"
+  },
+  {
+    "id": "qb_6",
+    "pdf": "story_comic.pdf",
+    "question": "Detail search item 6: What does the brown bear checks hollow trees for in the big green forest?",
+    "entities": [
+      "bear",
+      "forest",
+      "honey"
+    ],
+    "modality": "Text"
+  },
+  {
+    "id": "qb_7",
+    "pdf": "story_comic.pdf",
+    "question": "Detail search item 7: What does the brown bear checks hollow trees for in the big green forest?",
+    "entities": [
+      "bear",
+      "forest",
+      "honey"
+    ],
+    "modality": "Text"
+  },
+  {
+    "id": "qb_8",
+    "pdf": "story_comic.pdf",
+    "question": "Detail search item 8: What does the brown bear checks hollow trees for in the big green forest?",
+    "entities": [
+      "bear",
+      "forest",
+      "honey"
+    ],
+    "modality": "Text"
+  },
+  {
+    "id": "qb_9",
+    "pdf": "story_comic.pdf",
+    "question": "Detail search item 9: What does the brown bear checks hollow trees for in the big green forest?",
+    "entities": [
+      "bear",
+      "forest",
+      "honey"
+    ],
+    "modality": "Text"
+  },
+  {
+    "id": "qb_10",
+    "pdf": "story_comic.pdf",
+    "question": "Detail search item 10: What does the brown bear checks hollow trees for in the big green forest?",
+    "entities": [
+      "bear",
+      "forest",
+      "honey"
+    ],
+    "modality": "Text"
+  },
+  {
+    "id": "qb_11",
+    "pdf": "story_comic.pdf",
+    "question": "Detail search item 11: What does the brown bear checks hollow trees for in the big green forest?",
+    "entities": [
+      "bear",
+      "forest",
+      "honey"
+    ],
+    "modality": "Text"
+  },
+  {
+    "id": "qb_12",
+    "pdf": "story_comic.pdf",
+    "question": "Detail search item 12: What does the brown bear checks hollow trees for in the big green forest?",
+    "entities": [
+      "bear",
+      "forest",
+      "honey"
+    ],
+    "modality": "Text"
+  },
+  {
+    "id": "qb_13",
+    "pdf": "story_comic.pdf",
+    "question": "Detail search item 13: What does the brown bear checks hollow trees for in the big green forest?",
+    "entities": [
+      "bear",
+      "forest",
+      "honey"
+    ],
+    "modality": "Text"
+  },
+  {
+    "id": "qb_14",
+    "pdf": "story_comic.pdf",
+    "question": "Detail search item 14: What does the brown bear checks hollow trees for in the big green forest?",
+    "entities": [
+      "bear",
+      "forest",
+      "honey"
+    ],
+    "modality": "Text"
+  },
+  {
+    "id": "qb_15",
+    "pdf": "story_comic.pdf",
+    "question": "Detail search item 15: What does the brown bear checks hollow trees for in the big green forest?",
+    "entities": [
+      "bear",
+      "forest",
+      "honey"
+    ],
+    "modality": "Text"
+  },
+  {
+    "id": "qe_1",
+    "pdf": "story_comic.pdf",
+    "question": "Detail search item 1: What is the large gray elephant looking for in the dry savanna?",
+    "entities": [
+      "elephant",
+      "savanna",
+      "water"
+    ],
+    "modality": "Text"
+  },
+  {
+    "id": "qe_2",
+    "pdf": "story_comic.pdf",
+    "question": "Detail search item 2: What is the large gray elephant looking for in the dry savanna?",
+    "entities": [
+      "elephant",
+      "savanna",
+      "water"
+    ],
+    "modality": "Text"
+  },
+  {
+    "id": "qe_3",
+    "pdf": "story_comic.pdf",
+    "question": "Detail search item 3: What is the large gray elephant looking for in the dry savanna?",
+    "entities": [
+      "elephant",
+      "savanna",
+      "water"
+    ],
+    "modality": "Text"
+  },
+  {
+    "id": "qe_4",
+    "pdf": "story_comic.pdf",
+    "question": "Detail search item 4: What is the large gray elephant looking for in the dry savanna?",
+    "entities": [
+      "elephant",
+      "savanna",
+      "water"
+    ],
+    "modality": "Text"
+  },
+  {
+    "id": "qe_5",
+    "pdf": "story_comic.pdf",
+    "question": "Detail search item 5: What is the large gray elephant looking for in the dry savanna?",
+    "entities": [
+      "elephant",
+      "savanna",
+      "water"
+    ],
+    "modality": "Text"
+  },
+  {
+    "id": "qe_6",
+    "pdf": "story_comic.pdf",
+    "question": "Detail search item 6: What is the large gray elephant looking for in the dry savanna?",
+    "entities": [
+      "elephant",
+      "savanna",
+      "water"
+    ],
+    "modality": "Text"
+  },
+  {
+    "id": "qe_7",
+    "pdf": "story_comic.pdf",
+    "question": "Detail search item 7: What is the large gray elephant looking for in the dry savanna?",
+    "entities": [
+      "elephant",
+      "savanna",
+      "water"
+    ],
+    "modality": "Text"
+  },
+  {
+    "id": "qe_8",
+    "pdf": "story_comic.pdf",
+    "question": "Detail search item 8: What is the large gray elephant looking for in the dry savanna?",
+    "entities": [
+      "elephant",
+      "savanna",
+      "water"
+    ],
+    "modality": "Text"
+  },
+  {
+    "id": "qe_9",
+    "pdf": "story_comic.pdf",
+    "question": "Detail search item 9: What is the large gray elephant looking for in the dry savanna?",
+    "entities": [
+      "elephant",
+      "savanna",
+      "water"
+    ],
+    "modality": "Text"
+  },
+  {
+    "id": "qe_10",
+    "pdf": "story_comic.pdf",
+    "question": "Detail search item 10: What is the large gray elephant looking for in the dry savanna?",
+    "entities": [
+      "elephant",
+      "savanna",
+      "water"
+    ],
+    "modality": "Text"
+  },
+  {
+    "id": "qe_11",
+    "pdf": "story_comic.pdf",
+    "question": "Detail search item 11: What is the large gray elephant looking for in the dry savanna?",
+    "entities": [
+      "elephant",
+      "savanna",
+      "water"
+    ],
+    "modality": "Text"
+  },
+  {
+    "id": "qe_12",
+    "pdf": "story_comic.pdf",
+    "question": "Detail search item 12: What is the large gray elephant looking for in the dry savanna?",
+    "entities": [
+      "elephant",
+      "savanna",
+      "water"
+    ],
+    "modality": "Text"
+  },
+  {
+    "id": "qe_13",
+    "pdf": "story_comic.pdf",
+    "question": "Detail search item 13: What is the large gray elephant looking for in the dry savanna?",
+    "entities": [
+      "elephant",
+      "savanna",
+      "water"
+    ],
+    "modality": "Text"
+  },
+  {
+    "id": "qe_14",
+    "pdf": "story_comic.pdf",
+    "question": "Detail search item 14: What is the large gray elephant looking for in the dry savanna?",
+    "entities": [
+      "elephant",
+      "savanna",
+      "water"
+    ],
+    "modality": "Text"
+  },
+  {
+    "id": "qe_15",
+    "pdf": "story_comic.pdf",
+    "question": "Detail search item 15: What is the large gray elephant looking for in the dry savanna?",
+    "entities": [
+      "elephant",
+      "savanna",
+      "water"
+    ],
+    "modality": "Text"
+  },
+  {
+    "id": "qf_rev_1",
+    "pdf": "financial_report.pdf",
+    "question": "Financial inquiry 1: What was the GAAP Operating Income in 2024?",
+    "entities": [
+      "GAAP",
+      "2024",
+      "EPS"
+    ],
+    "modality": "Table"
+  },
+  {
+    "id": "qf_rev_2",
+    "pdf": "financial_report.pdf",
+    "question": "Financial inquiry 2: What was the GAAP Operating Income in 2024?",
+    "entities": [
+      "GAAP",
+      "2024",
+      "EPS"
+    ],
+    "modality": "Table"
+  },
+  {
+    "id": "qf_rev_3",
+    "pdf": "financial_report.pdf",
+    "question": "Financial inquiry 3: What was the GAAP Operating Income in 2024?",
+    "entities": [
+      "GAAP",
+      "2024",
+      "EPS"
+    ],
+    "modality": "Table"
+  },
+  {
+    "id": "qf_rev_4",
+    "pdf": "financial_report.pdf",
+    "question": "Financial inquiry 4: What was the GAAP Operating Income in 2024?",
+    "entities": [
+      "GAAP",
+      "2024",
+      "EPS"
+    ],
+    "modality": "Table"
+  },
+  {
+    "id": "qf_rev_5",
+    "pdf": "financial_report.pdf",
+    "question": "Financial inquiry 5: What was the GAAP Operating Income in 2024?",
+    "entities": [
+      "GAAP",
+      "2024",
+      "EPS"
+    ],
+    "modality": "Table"
+  },
+  {
+    "id": "qf_rev_6",
+    "pdf": "financial_report.pdf",
+    "question": "Financial inquiry 6: What was the GAAP Operating Income in 2024?",
+    "entities": [
+      "GAAP",
+      "2024",
+      "EPS"
+    ],
+    "modality": "Table"
+  },
+  {
+    "id": "qf_rev_7",
+    "pdf": "financial_report.pdf",
+    "question": "Financial inquiry 7: What was the GAAP Operating Income in 2024?",
+    "entities": [
+      "GAAP",
+      "2024",
+      "EPS"
+    ],
+    "modality": "Table"
+  },
+  {
+    "id": "qf_rev_8",
+    "pdf": "financial_report.pdf",
+    "question": "Financial inquiry 8: What was the GAAP Operating Income in 2024?",
+    "entities": [
+      "GAAP",
+      "2024",
+      "EPS"
+    ],
+    "modality": "Table"
+  },
+  {
+    "id": "qf_rev_9",
+    "pdf": "financial_report.pdf",
+    "question": "Financial inquiry 9: What was the GAAP Operating Income in 2024?",
+    "entities": [
+      "GAAP",
+      "2024",
+      "EPS"
+    ],
+    "modality": "Table"
+  },
+  {
+    "id": "qf_rev_10",
+    "pdf": "financial_report.pdf",
+    "question": "Financial inquiry 10: What was the GAAP Operating Income in 2024?",
+    "entities": [
+      "GAAP",
+      "2024",
+      "EPS"
+    ],
+    "modality": "Table"
+  },
+  {
+    "id": "qf_rev_11",
+    "pdf": "financial_report.pdf",
+    "question": "Financial inquiry 11: What was the GAAP Operating Income in 2024?",
+    "entities": [
+      "GAAP",
+      "2024",
+      "EPS"
+    ],
+    "modality": "Table"
+  },
+  {
+    "id": "qf_rev_12",
+    "pdf": "financial_report.pdf",
+    "question": "Financial inquiry 12: What was the GAAP Operating Income in 2024?",
+    "entities": [
+      "GAAP",
+      "2024",
+      "EPS"
+    ],
+    "modality": "Table"
+  },
+  {
+    "id": "qf_rev_13",
+    "pdf": "financial_report.pdf",
+    "question": "Financial inquiry 13: What was the GAAP Operating Income in 2024?",
+    "entities": [
+      "GAAP",
+      "2024",
+      "EPS"
+    ],
+    "modality": "Table"
+  },
+  {
+    "id": "qf_rev_14",
+    "pdf": "financial_report.pdf",
+    "question": "Financial inquiry 14: What was the GAAP Operating Income in 2024?",
+    "entities": [
+      "GAAP",
+      "2024",
+      "EPS"
+    ],
+    "modality": "Table"
+  },
+  {
+    "id": "qf_rev_15",
+    "pdf": "financial_report.pdf",
+    "question": "Financial inquiry 15: What was the GAAP Operating Income in 2024?",
+    "entities": [
+      "GAAP",
+      "2024",
+      "EPS"
+    ],
+    "modality": "Table"
+  },
+  {
+    "id": "qf_eps_1",
+    "pdf": "financial_report.pdf",
+    "question": "Financial inquiry 1: What was the Adjusted EPS difference between 2023 and 2024?",
+    "entities": [
+      "Adjusted",
+      "EPS",
+      "increase"
+    ],
+    "modality": "Table"
+  },
+  {
+    "id": "qf_eps_2",
+    "pdf": "financial_report.pdf",
+    "question": "Financial inquiry 2: What was the Adjusted EPS difference between 2023 and 2024?",
+    "entities": [
+      "Adjusted",
+      "EPS",
+      "increase"
+    ],
+    "modality": "Table"
+  },
+  {
+    "id": "qf_eps_3",
+    "pdf": "financial_report.pdf",
+    "question": "Financial inquiry 3: What was the Adjusted EPS difference between 2023 and 2024?",
+    "entities": [
+      "Adjusted",
+      "EPS",
+      "increase"
+    ],
+    "modality": "Table"
+  },
+  {
+    "id": "qf_eps_4",
+    "pdf": "financial_report.pdf",
+    "question": "Financial inquiry 4: What was the Adjusted EPS difference between 2023 and 2024?",
+    "entities": [
+      "Adjusted",
+      "EPS",
+      "increase"
+    ],
+    "modality": "Table"
+  },
+  {
+    "id": "qf_eps_5",
+    "pdf": "financial_report.pdf",
+    "question": "Financial inquiry 5: What was the Adjusted EPS difference between 2023 and 2024?",
+    "entities": [
+      "Adjusted",
+      "EPS",
+      "increase"
+    ],
+    "modality": "Table"
+  },
+  {
+    "id": "qf_eps_6",
+    "pdf": "financial_report.pdf",
+    "question": "Financial inquiry 6: What was the Adjusted EPS difference between 2023 and 2024?",
+    "entities": [
+      "Adjusted",
+      "EPS",
+      "increase"
+    ],
+    "modality": "Table"
+  },
+  {
+    "id": "qf_eps_7",
+    "pdf": "financial_report.pdf",
+    "question": "Financial inquiry 7: What was the Adjusted EPS difference between 2023 and 2024?",
+    "entities": [
+      "Adjusted",
+      "EPS",
+      "increase"
+    ],
+    "modality": "Table"
+  },
+  {
+    "id": "qf_eps_8",
+    "pdf": "financial_report.pdf",
+    "question": "Financial inquiry 8: What was the Adjusted EPS difference between 2023 and 2024?",
+    "entities": [
+      "Adjusted",
+      "EPS",
+      "increase"
+    ],
+    "modality": "Table"
+  },
+  {
+    "id": "qf_eps_9",
+    "pdf": "financial_report.pdf",
+    "question": "Financial inquiry 9: What was the Adjusted EPS difference between 2023 and 2024?",
+    "entities": [
+      "Adjusted",
+      "EPS",
+      "increase"
+    ],
+    "modality": "Table"
+  },
+  {
+    "id": "qf_eps_10",
+    "pdf": "financial_report.pdf",
+    "question": "Financial inquiry 10: What was the Adjusted EPS difference between 2023 and 2024?",
+    "entities": [
+      "Adjusted",
+      "EPS",
+      "increase"
+    ],
+    "modality": "Table"
+  },
+  {
+    "id": "qf_eps_11",
+    "pdf": "financial_report.pdf",
+    "question": "Financial inquiry 11: What was the Adjusted EPS difference between 2023 and 2024?",
+    "entities": [
+      "Adjusted",
+      "EPS",
+      "increase"
+    ],
+    "modality": "Table"
+  },
+  {
+    "id": "qf_eps_12",
+    "pdf": "financial_report.pdf",
+    "question": "Financial inquiry 12: What was the Adjusted EPS difference between 2023 and 2024?",
+    "entities": [
+      "Adjusted",
+      "EPS",
+      "increase"
+    ],
+    "modality": "Table"
+  },
+  {
+    "id": "qf_eps_13",
+    "pdf": "financial_report.pdf",
+    "question": "Financial inquiry 13: What was the Adjusted EPS difference between 2023 and 2024?",
+    "entities": [
+      "Adjusted",
+      "EPS",
+      "increase"
+    ],
+    "modality": "Table"
+  },
+  {
+    "id": "qf_eps_14",
+    "pdf": "financial_report.pdf",
+    "question": "Financial inquiry 14: What was the Adjusted EPS difference between 2023 and 2024?",
+    "entities": [
+      "Adjusted",
+      "EPS",
+      "increase"
+    ],
+    "modality": "Table"
+  },
+  {
+    "id": "qf_eps_15",
+    "pdf": "financial_report.pdf",
+    "question": "Financial inquiry 15: What was the Adjusted EPS difference between 2023 and 2024?",
+    "entities": [
+      "Adjusted",
+      "EPS",
+      "increase"
+    ],
+    "modality": "Table"
+  },
+  {
+    "id": "qn_1",
+    "pdf": "story_comic.pdf",
+    "question": "Negation validation 1: What does the wild lion eat in the savanna grasslands?",
+    "entities": [
+      "lion",
+      "savanna"
+    ],
+    "modality": "Text"
+  },
+  {
+    "id": "qn_2",
+    "pdf": "story_comic.pdf",
+    "question": "Negation validation 2: What does the wild lion eat in the savanna grasslands?",
+    "entities": [
+      "lion",
+      "savanna"
+    ],
+    "modality": "Text"
+  },
+  {
+    "id": "qn_3",
+    "pdf": "story_comic.pdf",
+    "question": "Negation validation 3: What does the wild lion eat in the savanna grasslands?",
+    "entities": [
+      "lion",
+      "savanna"
+    ],
+    "modality": "Text"
+  },
+  {
+    "id": "qn_4",
+    "pdf": "story_comic.pdf",
+    "question": "Negation validation 4: What does the wild lion eat in the savanna grasslands?",
+    "entities": [
+      "lion",
+      "savanna"
+    ],
+    "modality": "Text"
+  },
+  {
+    "id": "qn_5",
+    "pdf": "story_comic.pdf",
+    "question": "Negation validation 5: What does the wild lion eat in the savanna grasslands?",
+    "entities": [
+      "lion",
+      "savanna"
+    ],
+    "modality": "Text"
+  },
+  {
+    "id": "qn_6",
+    "pdf": "story_comic.pdf",
+    "question": "Negation validation 6: What does the wild lion eat in the savanna grasslands?",
+    "entities": [
+      "lion",
+      "savanna"
+    ],
+    "modality": "Text"
+  },
+  {
+    "id": "qn_7",
+    "pdf": "story_comic.pdf",
+    "question": "Negation validation 7: What does the wild lion eat in the savanna grasslands?",
+    "entities": [
+      "lion",
+      "savanna"
+    ],
+    "modality": "Text"
+  },
+  {
+    "id": "qn_8",
+    "pdf": "story_comic.pdf",
+    "question": "Negation validation 8: What does the wild lion eat in the savanna grasslands?",
+    "entities": [
+      "lion",
+      "savanna"
+    ],
+    "modality": "Text"
+  },
+  {
+    "id": "qn_9",
+    "pdf": "story_comic.pdf",
+    "question": "Negation validation 9: What does the wild lion eat in the savanna grasslands?",
+    "entities": [
+      "lion",
+      "savanna"
+    ],
+    "modality": "Text"
+  },
+  {
+    "id": "qn_10",
+    "pdf": "story_comic.pdf",
+    "question": "Negation validation 10: What does the wild lion eat in the savanna grasslands?",
+    "entities": [
+      "lion",
+      "savanna"
+    ],
+    "modality": "Text"
+  },
+  {
+    "id": "qn_11",
+    "pdf": "story_comic.pdf",
+    "question": "Negation validation 11: What does the wild lion eat in the savanna grasslands?",
+    "entities": [
+      "lion",
+      "savanna"
+    ],
+    "modality": "Text"
+  },
+  {
+    "id": "qn_12",
+    "pdf": "story_comic.pdf",
+    "question": "Negation validation 12: What does the wild lion eat in the savanna grasslands?",
+    "entities": [
+      "lion",
+      "savanna"
+    ],
+    "modality": "Text"
+  },
+  {
+    "id": "qn_13",
+    "pdf": "story_comic.pdf",
+    "question": "Negation validation 13: What does the wild lion eat in the savanna grasslands?",
+    "entities": [
+      "lion",
+      "savanna"
+    ],
+    "modality": "Text"
+  },
+  {
+    "id": "qn_14",
+    "pdf": "story_comic.pdf",
+    "question": "Negation validation 14: What does the wild lion eat in the savanna grasslands?",
+    "entities": [
+      "lion",
+      "savanna"
+    ],
+    "modality": "Text"
+  },
+  {
+    "id": "qn_15",
+    "pdf": "story_comic.pdf",
+    "question": "Negation validation 15: What does the wild lion eat in the savanna grasslands?",
+    "entities": [
+      "lion",
+      "savanna"
+    ],
+    "modality": "Text"
+  },
+  {
+    "id": "qn_16",
+    "pdf": "story_comic.pdf",
+    "question": "Negation validation 16: What does the wild lion eat in the savanna grasslands?",
+    "entities": [
+      "lion",
+      "savanna"
+    ],
+    "modality": "Text"
+  },
+  {
+    "id": "qn_17",
+    "pdf": "story_comic.pdf",
+    "question": "Negation validation 17: What does the wild lion eat in the savanna grasslands?",
+    "entities": [
+      "lion",
+      "savanna"
+    ],
+    "modality": "Text"
+  },
+  {
+    "id": "qn_18",
+    "pdf": "story_comic.pdf",
+    "question": "Negation validation 18: What does the wild lion eat in the savanna grasslands?",
+    "entities": [
+      "lion",
+      "savanna"
+    ],
+    "modality": "Text"
+  },
+  {
+    "id": "qn_19",
+    "pdf": "story_comic.pdf",
+    "question": "Negation validation 19: What does the wild lion eat in the savanna grasslands?",
+    "entities": [
+      "lion",
+      "savanna"
+    ],
+    "modality": "Text"
+  },
+  {
+    "id": "qn_20",
+    "pdf": "story_comic.pdf",
+    "question": "Negation validation 20: What does the wild lion eat in the savanna grasslands?",
+    "entities": [
+      "lion",
+      "savanna"
+    ],
+    "modality": "Text"
+  }
+]
