@@ -44,7 +44,7 @@ ANSWER:"""
         for e in evidence:
             lines = [l.strip() for l in e["text"].split("\n") if l.strip()]
             for l in lines:
-                if not l.startswith("|") and not l.startswith("---") and not l.lower().startswith("chapter") and not l.lower().startswith("story"):
+                if not l.startswith("|") and not l.startswith("---"):
                     narrative_lines.append(l)
                     
         full_text = " ".join(narrative_lines)
